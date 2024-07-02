@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İlsu 👩‍💻</h1>
 <h3 align="center">I'm a full stack developer</h3>
 
-<h3 align="left">👉 About Me</h3>
+<h3 align="left">👉 About Me :</h3>
 
 - 🔭 I’m currently working on an fullstack e-commerce project : [PazarYeri Frontend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce) | [PazarYeri Backend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce)
 
@@ -10,7 +10,7 @@
 - 🌟Fun fact about me : I love developing games!
 
 <hr style="border: none; height: 0.5px; background-color: #ccc;">
-<h3 align="left">👉 Tech Stack</h3>
+<h3 align="left">👉 Tech Stack :</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
@@ -34,6 +34,6 @@
 </p>
 
 <hr style="border: none; height: 1px; background-color: #ccc;">
-<h3 align="left">👉 Some Data</h3>
+<h3 align="left">👉 Some Data :</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilsusunal&show_icons=true&locale=en&layout=compact" alt="ilsusunal" style="margin-right: 20px;  height: 160px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilsusunal&" alt="ilsusunal" style="margin-left: 20px;  height: 160px;" /></p>
