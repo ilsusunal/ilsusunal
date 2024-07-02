@@ -14,5 +14,5 @@
 
 <hr style="border: none; height: 1px; background-color: #ccc;">
 <h3 align="left">👉 Some Data</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilsusunal&show_icons=true&locale=en&layout=compact" alt="ilsusunal" style="margin-right: 20px;  height: 100px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilsusunal&" alt="ilsusunal" style="margin-left: 20px;  height: 100px;" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilsusunal&show_icons=true&locale=en&layout=compact" alt="ilsusunal" style="margin-right: 20px;  height: 200px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilsusunal&" alt="ilsusunal" style="margin-left: 20px;  height: 200px;" /></p>
