@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm İlsu 👩‍💻</h1>
-<p align="left"><b><span style="text-decoration: underline;">I am a passionate Full Stack Developer.</span></b></p>
-<p align="left">My journey into software development began with game development while studying architecture, opening up a world of creativity and problem-solving. Driven by curiosity and a love for continuous learning, I stay updated with the latest industry trends and technologies. Currently, I am deepening my knowledge of .NET and C# for backend development.</p>
-<p align="left">In my free time, I work on a Unity game project with my team, with hopes of releasing it on Steam one day.</p>
-<p align="left">Thank you for visiting my profile!</p>
+<details>
+  <summary><h3>I am a passionate Full Stack Developer.</h3></summary>
+  <p align="left">My journey into software development began with game development while studying architecture, opening up a world of creativity and problem-solving. Driven by curiosity and a love for continuous learning, I stay updated with the latest industry trends and technologies. Currently, I am deepening my knowledge of .NET and C# for backend development.</p>
+  <p align="left">In my free time, I work on a Unity game project with my team, with hopes of releasing it on Steam one day.</p>
+  <p align="left">Thank you for visiting my profile!</p>
+</details>
+
 
 
 
