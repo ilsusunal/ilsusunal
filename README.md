@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 🌟Fun fact about me : I love developing games!
+- 👾 Fun fact about me : I love developing games! 
 
 <hr style="border: none; height: 0.5px; background-color: #ccc;">
 <h3 align="left">👉 Tech Stack :</h3>
