@@ -11,7 +11,7 @@
 
 <h3 align="left">👉 About Me :</h3>
 
-- 🔭 I’m currently working on an fullstack e-commerce project : [PazarYeri Frontend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce) | [PazarYeri Backend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce)
+- 🔭 I’m currently working on a fullstack e-commerce project : [PazarYeri Frontend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce) | [PazarYeri Backend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce)
 
 - 🌱 I’m currently learning **.NET**
 
