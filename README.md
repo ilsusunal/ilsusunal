@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on a fullstack e-commerce project : [PazarYeri Frontend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce) | [PazarYeri Backend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce)
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET** [ASP.NET Practice Projects](https://github.com/ilsusunal/DataDriveBackEndBootcamp)
 
 - 👾 Fun fact about me : I love developing games! 
 
