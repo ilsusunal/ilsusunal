@@ -11,9 +11,9 @@
 
 <h3 align="left">👉 About Me :</h3>
 
-- 🔭 I’m currently working on a fullstack e-commerce project : [PazarYeri Frontend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce) | [PazarYeri Backend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce)
+- 🔭 I’m currently working on a fullstack e-commerce project : [PazarYeri Frontend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce) | [PazarYeri Backend]([https://github.com/ilsusunal/PazarYeri-frontend-ecommerce](https://github.com/ilsusunal/PazarYeri-backend))
 
-- 🌱 I’m currently learning **.NET** [ASP.NET Practice Projects](https://github.com/ilsusunal/DataDriveBackEndBootcamp)
+- 🌱 I’m currently learning : **.NET** and **C#** [ASP.NET Practice Projects](https://github.com/ilsusunal/DataDriveBackEndBootcamp)
 
 - 👾 Fun fact about me : I love developing games! 
 
