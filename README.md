@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on a fullstack e-commerce project : [PazarYeri Frontend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce) | [PazarYeri Backend](https://github.com/ilsusunal/PazarYeri-backend)
 
-- 🌱 I’m currently learning : **.NET** and **C#** [ASP.NET Practice Projects](https://github.com/ilsusunal/DataDriveBackEndBootcamp)
+- 🌱 I’m currently learning : **.NET** and **C#** [Food Order APIs](https://github.com/ilsusunal/FoodOrderEcommerce)
 
-- 👾 Fun fact about me : I love developing games! 
+- 👾 Fun fact about me : I love developing games! Check out a little game we developed with my team for Google App&Game Academy [BioHarvest](https://fivepacestudio.itch.io/bioharvest)
 
 <hr style="border: none; height: 0.5px; background-color: #ccc;">
 <h3 align="left">👉 Tech Stack :</h3>
