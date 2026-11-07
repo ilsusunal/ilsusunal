@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm İlsu 👋</h1>
 <p align="center">Full Stack Developer & Team Lead based in İzmir.<br/>I build web products with React, Next.js and .NET, and I like untangling big systems without breaking them.</p>
-
 <br/>
 
 ### 🚀 What I'm working on
@@ -16,9 +15,7 @@ A full-stack e-commerce app, built end to end.
 
 **BioHarvest** · [Play on itch.io](https://fivepacestudio.itch.io/bioharvest)
 A game my team made for Google Game & App Academy. I started programming through game development, and I still work on a Unity game with my team in my free time.
-
 <br/>
-
 ### 🛠 Tools I use
 
 <p align="left">
@@ -34,14 +31,6 @@ A game my team made for Google Game & App Academy. I started programming through
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="36" height="36"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="36" height="36"/>
 </p>
-
-<br/>
-
-### 🌱 Currently
-
-Going deeper on backend architecture (Clean Architecture, .NET) and on working with AI tools like Claude Code, including building an educational skill for it.
-
-<br/>
 
 ### 📫 Say hi
 
