@@ -8,7 +8,7 @@
 **Marketplace platform @ GelecekVadisi**
 I lead a 5-person team on an e-commerce marketplace. I built the Next.js 16 frontend from scratch (Feature-Sliced Design, Storybook component library) and I'm now leading the move from a legacy monolith to domain-based services. We chose an incremental migration over a full microservices rewrite, so the live product keeps running while the backend is rebuilt piece by piece.
 
-**Field Expense Tracker API** · .NET 8, C#
+**Field Expense Tracker API** · [Backend](https://github.com/ilsusunal/field-expense-tracker) · .NET 8, C#
 A layered Web API where field staff submit expenses with receipts and admins approve them. It has JWT auth with role-based access, Dapper-powered reports that respond in under 100 ms, Redis and SQL Server.
 
 **PazarYeri** · [Frontend](https://github.com/ilsusunal/PazarYeri-frontend-ecommerce) · [Backend](https://github.com/ilsusunal/PazarYeri-backend)
